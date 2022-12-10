@@ -24,10 +24,10 @@ To use this Prework Study Guide, you can review the notes in each section. For s
 ## Links
 
 <b>Source Code</b>
-
+https://github.com/ozgencmardi/semantic-html
 
 <b>Website URL</b>
-
+https://ozgencmardi.github.io/semantic-html
 
 ## Credits
 
